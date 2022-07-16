@@ -45,33 +45,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y='
-global.sgh = 'https://github.com/Fangzbotz2007'
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM'
-global.sdc = 'https://s.id/Fangzganz'
+global.sig = 'https://instagram.com/fiikrah26_'
+global.sgh = 'https://github.com/XynozBOTZ'
+global.sgc = 'https://chat.whatsapp.com/KCnKZusuzijEResDYb15cL'
+global.sdc = 'https://s.id/XynozBOTZ'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '088215689772'
-global.povo = '088215689772'
-global.pgopay = '088215689772'
-global.ppulsa = '088215689772'
-global.ppulsa2 = '0895394988123'
-global.psaweria = 'https://saweria.co/FangzBot'
+global.pdana = '082184080698'
+global.povo = '082184080698'
+global.pgopay = '082184080698'
+global.ppulsa = '082184080698'
+global.ppulsa2 = '082184080698'
+global.psaweria = 'https://saweria.co/xynozbotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895394988123'
-global.nomorown = '6288215689772'
-global.namebot = ' 「 FANGZ BOT ⁩㊣ 」'
-global.nameown = 'Fangz Ganz'
+global.nomorbot = '6281218900647'
+global.nomorown = '6283839200413'
+global.namebot = ' 「 XynozBOTZ ⁩㊣ 」'
+global.nameown = 'Fiikrah Ganz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288215689772'],
-  ['62895336282144'],
-  ['6288215689772'],
-  ['6288215689772', 'Fangz Ganz', true]
+  ['6283839200413'],
+  ['6283839200413'],
+  ['6283839200413'],
+  ['6283839200413', 'Fiikrah Ganz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -117,13 +117,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 Fangz BOT あ⁩ 」' //Main Watermark
-global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ FangzBOT-Md¨˜ˆ”°⍣~•⊹٭„¸'
-global.wm3 = '⫹⫺ Fangz 𝗕𝗢𝗧'
+global.wm = '         XynozBOTZ ⁩㊣' //maitiin Watermark
+global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ XynozBOTZ ⁩㊣¨˜ˆ”°⍣~•⊹٭„¸'
+global.wm3 = 'XynozBOTZ ⁩㊣'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝗥𝗣𝗚 | Whatsapp ʙᴏᴛ By FANGZ'
-global.author = '       ┄┄┄┅┅❑ FANGZ ❑┅┅┄┄┄'
+global.titlebot = '𝗥𝗣𝗚 | Whatsapp ʙᴏᴛ By XynozBOTZ ⁩㊣'
+global.author = '       ┄┄┄┅┅❑ XynozBOTZ ⁩㊣ ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
@@ -177,7 +177,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `By Fangz BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `By XynozBOTZ ⁩㊣\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
