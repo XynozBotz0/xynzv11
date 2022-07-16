@@ -52,18 +52,18 @@ global.sdc = 'https://s.id/Fiikrah'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '088215689772'
-global.povo = '088215689772'
-global.pgopay = '088215689772'
-global.ppulsa = '088215689772'
-global.ppulsa2 = '0895394988123'
-global.psaweria = 'https://saweria.co/FangzBot'
+global.pdana = '082184080698'
+global.povo = '082184080698'
+global.pgopay = '082184080698'
+global.ppulsa = '082184080698'
+global.ppulsa2 = '083839200413'
+global.psaweria = 'https://saweria.co/xynozbotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895394988123'
-global.nomorown = '6288215689772'
-global.namebot = ' 「 FANGZ BOT ⁩㊣ 」'
-global.nameown = 'Fangz Ganz'
+global.nomorbot = '6281218900647'
+global.nomorown = '6283839200413'
+global.namebot = ' 「 ◤ XynozBOTZ 弔 ◥ ⁩」'
+global.nameown = 'Fiikrah Ganz'
 
 
 /*============== STAFF ==============*/
