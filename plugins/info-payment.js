@@ -15,7 +15,7 @@ let ppm = '70'
 let info = `
 *${htki} PAYMENT ${htka}*
 
-©2022 FangzBot Official 
+©2022 XynozBot Official 
 `
 const sections = [
    {
