@@ -45,10 +45,10 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y='
-global.sgh = 'https://github.com/Fangzbotz2007'
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM'
-global.sdc = 'https://s.id/Fangzganz'
+global.sig = 'https://instagram.com/fiikrah26_'
+global.sgh = 'https://github.com/XynozBOTZ'
+global.sgc = 'https://chat.whatsapp.com/KCnKZusuzijEResDYb15cL'
+global.sdc = 'https://s.id/Fiikrah'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
